@@ -10,3 +10,7 @@ Länk till tutorial: https://www.freecodecamp.org/news/rest-api-design-best-prac
 ## 2023-04-25
 
 Fortsatte jobba med tutorial och den skickar ut json nu. Ska forsätta efter installera body-parser nästa gång.   
+
+## 2023-04-28
+
+Gjorde klart tutorial och ska nästa gång försöka få upp APIn och använda innehållet på en annan sida. När jag är klar med det kommer jag börja jobba med att ändra innehållet i APIn så att det faktiskt är informationen jag ska använda.
