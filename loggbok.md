@@ -14,3 +14,10 @@ Fortsatte jobba med tutorial och den skickar ut json nu. Ska forsätta efter ins
 ## 2023-04-28
 
 Gjorde klart tutorial och ska nästa gång försöka få upp APIn och använda innehållet på en annan sida. När jag är klar med det kommer jag börja jobba med att ändra innehållet i APIn så att det faktiskt är informationen jag ska använda.
+
+
+## 2023-05-09
+
+Har jobbat med hosting på Glitch. Sidan finns inte uppe en och det verkar beror på något typ av syntax fel. Från vad jag har läst så kan det vara någon ny funktion i javascript som Glitch inte har support för. Koden som jag använder verkar använda något som kallas optional chaining. 
+
+Länk till glitch support: https://support.glitch.com/t/how-to-use-optional-chanining-in-node-v14/25874

@@ -1,13 +1,12 @@
 {
   "name": "api-test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "build": "nodemon src/index.js"
+    "start": "nodemon src/index.js"
   },
   "keywords": [],
+  "description": "",
   "author": "",
   "license": "ISC",
   "devDependencies": {
