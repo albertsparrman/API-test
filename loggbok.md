@@ -21,3 +21,23 @@ Gjorde klart tutorial och ska nästa gång försöka få upp APIn och använda i
 Har jobbat med hosting på Glitch. Sidan finns inte uppe en och det verkar beror på något typ av syntax fel. Från vad jag har läst så kan det vara någon ny funktion i javascript som Glitch inte har support för. Koden som jag använder verkar använda något som kallas optional chaining. 
 
 Länk till glitch support: https://support.glitch.com/t/how-to-use-optional-chanining-in-node-v14/25874
+
+## 2023-05-12
+
+Hosting fungerar nu tog hjälp av artikeln på https://support.glitch.com/t/how-to-use-optional-chanining-in-node-v14/25874. Man behövde tydligen manuellt installera en nyare node-version med hjälp av nvm. Nedan är koden som fick det att fungera.
+
+### Installera nvm and senaste node-versionen
+
+```
+curl https://pastebin.com/raw/UCvD6VUH | bash
+source ~/.bashrc
+nvm install node
+```
+
+### Lägg till engines i package.json
+```
+"engines": {
+    "node": "12.x"
+},
+```
+Jag la även till --harmony i start scriptet men vet ej om det är användbart eller exakt vad det gör. 
