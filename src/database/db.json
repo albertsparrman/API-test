@@ -1,29 +1,43 @@
 {
   "workouts": [
     {
-      "h1": [
-        {
-          "division": "Herr JAS",
-          "games": [
-            {
-              "home":{
-                "name": "Gimonäs Umeå IF",
-                "abreviaton": "GUIF",
-                "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
-                "score": "5"
-              },
-              "away":{
-                "name": "Gimonäs Umeå IF",
-                "abreviaton": "GUIF",
-                "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
-                "score": "0"
-              },
-              "arena": "Sjöfruhallen",
-              "status": "Avslutad"
-            }
-          ]
-        }
-      ]
+      "h1":{
+        "division": "Herr JAS",
+        "games": [ 
+          {
+            "home":{
+              "name": "Gimonäs Umeå IF",
+              "abreviaton": "GUIF",
+              "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
+              "score": "5"
+            },
+            "away":{
+              "name": "Gimonäs Umeå IF",
+              "abreviaton": "GUIF",
+              "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
+              "score": "0"
+            },
+            "arena": "Sjöfruhallen",
+            "status": "Avslutad"
+          },
+          {
+            "home":{
+              "name": "Beda IF",
+              "abreviaton": "BIF",
+              "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
+              "score": "4"
+            },
+            "away":{
+              "name": "Gimonäs Umeå IF",
+              "abreviaton": "GUIF",
+              "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
+              "score": "3"
+            },
+            "arena": "Bedahallen",
+            "status": "live"
+          }      
+        ]
+      }
     }   
   ]
 }
