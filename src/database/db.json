@@ -1,43 +1,40 @@
 {
-  "workouts": [
-    {
-      "h1":{
-        "division": "Herr JAS",
-        "games": [ 
-          {
-            "home":{
-              "name": "Gimonäs Umeå IF",
-              "abreviaton": "GUIF",
-              "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
-              "score": "5"
+    "status": "OK",
+    "h1": [
+        {
+            "date": "22",
+            "home": {
+                "name": "Gimonäs Umeå IF",
+                "abreviaton": "GUIF",
+                "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
+                "score": "5"
             },
-            "away":{
-              "name": "Gimonäs Umeå IF",
-              "abreviaton": "GUIF",
-              "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
-              "score": "0"
+            "away": {
+                "name": "Gimonäs Umeå IF",
+                "abreviaton": "GUIF",
+                "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
+                "score": "0"
             },
             "arena": "Sjöfruhallen",
             "status": "Avslutad"
-          },
-          {
-            "home":{
-              "name": "Beda IF",
-              "abreviaton": "BIF",
-              "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
-              "score": "4"
+        },
+        {
+            "division": "Herr JAS",
+            "date": "22-4",
+            "home": {
+                "name": "Gimonäs Umeå IF",
+                "abreviaton": "GUIF",
+                "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
+                "score": "5"
             },
-            "away":{
-              "name": "Gimonäs Umeå IF",
-              "abreviaton": "GUIF",
-              "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
-              "score": "3"
+            "away": {
+                "name": "Gimonäs Umeå IF",
+                "abreviaton": "GUIF",
+                "logoUrl": "https://www2.sportadmin.se/vault/getIm.asp?ID=7775&typ=0&v=1",
+                "score": "0"
             },
-            "arena": "Bedahallen",
-            "status": "live"
-          }      
-        ]
-      }
-    }   
-  ]
+            "arena": "Sjöfruhallen",
+            "status": "Live"
+        }
+    ]
 }
